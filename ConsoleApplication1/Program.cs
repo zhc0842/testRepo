@@ -16,6 +16,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             test2();
+            Console.WriteLine("-------------");
         }
 
         private static void test2()
