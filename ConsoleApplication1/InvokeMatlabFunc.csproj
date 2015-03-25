@@ -35,7 +35,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BHahaPrjNative">
-      <HintPath>..\..\..\mat_workspace\deployprj\BHahaPrj\distrib\BHahaPrjNative.dll</HintPath>
+      <HintPath>.\BHahaPrjNative.dll</HintPath>
     </Reference>
     <Reference Include="MWArray, Version=2.12.0.0, Culture=neutral, PublicKeyToken=e1d84a0da19db86f, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
@@ -49,7 +49,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Untitled1">
-      <HintPath>..\..\..\mat_workspace\deployprj\Untitled1\distrib\Untitled1.dll</HintPath>
+      <HintPath>.\Untitled1.dll</HintPath>
     </Reference>
     <Reference Include="Untitled1Native">
       <HintPath>..\..\..\mat_workspace\deployprj\Untitled1\distrib\Untitled1Native.dll</HintPath>
